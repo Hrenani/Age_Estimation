@@ -20,6 +20,11 @@ Several approaches have been previously explored for this task, including:
 
 Given the complexity and the constraints of time and hardware, I decided to use the first method: **Regression with CNNs**. The third approach was deemed too complex to complete within the project timeframe, and although the fourth method was intriguing, it was not feasible under the given constraints.
 
+## Dataset
+For this project, the **UTKFace** dataset will be used, which provides a large set of facial images labeled with the corresponding age, gender, and ethnicity.
+
+You can access the UTKFace dataset via the following link:
+[UTKFace Dataset](https://susanqq.github.io/UTKFace/)
+
 ## Implementation
 ### 1. Installing Dependencies
-
