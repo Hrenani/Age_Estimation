@@ -27,4 +27,9 @@ You can access the UTKFace dataset via the following link:
 [UTKFace Dataset](https://susanqq.github.io/UTKFace/)
 
 ## Implementation
+
 ### 1. Installing Dependencies
+To set up the project, you need to install the required dependencies. First, create a virtual environment:
+
+
+python -m venv env
